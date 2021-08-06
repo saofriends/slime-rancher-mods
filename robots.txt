@@ -1,0 +1,5 @@
+User-agent: *
+Allow: 
+
+Sitemap: https://slime-rancher-mods.herokuapp.com/host-https-answerdiary.com/post-sitemap.xml
+Sitemap: https://slime-rancher-mods.herokuapp.com/sitemap.xml
